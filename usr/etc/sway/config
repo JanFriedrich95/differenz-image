@@ -254,6 +254,7 @@ exec GTK_THEME=Adwaita-dark swaync
 exec /usr/libexec/swaync-watch
 exec /usr/libexec/polkit-gnome-authentication-agent-1
 exec /usr/libexec/gsd-xsettings
+exec foot --server
 
 include /etc/sway/config.d/*
 include ~/.config/sway/config.d/*
