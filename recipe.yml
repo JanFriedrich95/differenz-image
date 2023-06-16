@@ -69,6 +69,7 @@ rpm:
     # Add your own below:
     # Example:
     # - tilix
+    - fish
     - gammastep
     - grim
     - i3status-rust
